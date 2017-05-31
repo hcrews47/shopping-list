@@ -4,3 +4,5 @@ bacon
 bread
 coffee
 cheese
+tacos
+papaya
