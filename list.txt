@@ -1,0 +1,6 @@
+milk
+eggs
+bacon 
+bread
+coffee
+cheese
