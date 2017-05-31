@@ -6,3 +6,7 @@ coffee
 cheese
 tacos
 papaya
+
+party hats
+cake
+doritos
