@@ -6,3 +6,4 @@ coffee
 cheese
 tacos
 papaya
+rice crispies
