@@ -7,3 +7,6 @@ cheese
 tacos
 papaya
 rice crispies
+
+doritos
+salsa
